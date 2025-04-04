@@ -1,0 +1,24 @@
+{
+  "name": "interbank-academy-25",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bank Transaction Processing (CLI)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josingaq-codes/interbank-academy-25.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josingaq-codes/interbank-academy-25/issues"
+  },
+  "homepage": "https://github.com/josingaq-codes/interbank-academy-25#readme",
+  "dependencies": {
+    "csv-parser": "^3.2.0"
+  }
+}
